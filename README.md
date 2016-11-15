@@ -1,3 +1,3 @@
 # PythonLessons
 
-Learning pyhton early experiments
+Learning python, early experiments
