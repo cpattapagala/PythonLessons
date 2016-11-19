@@ -1,0 +1,105 @@
+#DataDate: 2015-12-04
+#CreationTimestamp: 2015-12-07 06:20:59Z
+#Columns: Name|Parent|Level
+Energy-S||Sectors
+Materials-S||Sectors
+Industrials-S||Sectors
+Consumer Discretionary-S||Sectors
+Consumer Staples-S||Sectors
+Health Care-S||Sectors
+Financials-S||Sectors
+Information Technology-S||Sectors
+Telecommunication Services-S||Sectors
+Utilities-S||Sectors
+Energy-G|Energy-S|Industry Groups
+Materials-G|Materials-S|Industry Groups
+Capital Goods-G|Industrials-S|Industry Groups
+Commercial & Professional Services-G|Industrials-S|Industry Groups
+Transportation-G|Industrials-S|Industry Groups
+Automobiles & Components-G|Consumer Discretionary-S|Industry Groups
+Consumer Durables & Apparel-G|Consumer Discretionary-S|Industry Groups
+Consumer Services-G|Consumer Discretionary-S|Industry Groups
+Media-G|Consumer Discretionary-S|Industry Groups
+Retailing-G|Consumer Discretionary-S|Industry Groups
+Food & Staples Retailing-G|Consumer Staples-S|Industry Groups
+Food, Beverage & Tobacco-G|Consumer Staples-S|Industry Groups
+Household & Personal Products-G|Consumer Staples-S|Industry Groups
+Health Care Equipment & Services-G|Health Care-S|Industry Groups
+Pharmaceuticals, Biotechnology & Life Sciences-G|Health Care-S|Industry Groups
+Banks-G|Financials-S|Industry Groups
+Diversified Financials-G|Financials-S|Industry Groups
+Insurance-G|Financials-S|Industry Groups
+Real Estate-G|Financials-S|Industry Groups
+Software & Services-G|Information Technology-S|Industry Groups
+Technology Hardware & Equipment-G|Information Technology-S|Industry Groups
+Semiconductors & Semiconductor Equipment-G|Information Technology-S|Industry Groups
+Telecommunication Services-G|Telecommunication Services-S|Industry Groups
+Utilities-G|Utilities-S|Industry Groups
+Energy Equipment & Services|Energy-G|Industries
+Oil, Gas & Consumable Fuels|Energy-G|Industries
+Chemicals|Materials-G|Industries
+Construction Materials|Materials-G|Industries
+Containers & Packaging|Materials-G|Industries
+Metals & Mining|Materials-G|Industries
+Paper & Forest Products|Materials-G|Industries
+Aerospace & Defense|Capital Goods-G|Industries
+Building Products|Capital Goods-G|Industries
+Construction & Engineering|Capital Goods-G|Industries
+Electrical Equipment|Capital Goods-G|Industries
+Industrial Conglomerates|Capital Goods-G|Industries
+Machinery|Capital Goods-G|Industries
+Trading Companies & Distributors|Capital Goods-G|Industries
+Commercial Services & Supplies|Commercial & Professional Services-G|Industries
+Professional Services|Commercial & Professional Services-G|Industries
+Air Freight & Logistics|Transportation-G|Industries
+Airlines|Transportation-G|Industries
+Marine|Transportation-G|Industries
+Road & Rail|Transportation-G|Industries
+Transportation Infrastructure|Transportation-G|Industries
+Auto Components|Automobiles & Components-G|Industries
+Automobiles|Automobiles & Components-G|Industries
+Household Durables|Consumer Durables & Apparel-G|Industries
+Leisure Equipment & Products|Consumer Durables & Apparel-G|Industries
+Textiles, Apparel & Luxury Goods|Consumer Durables & Apparel-G|Industries
+Hotels, Restaurants & Leisure|Consumer Services-G|Industries
+Diversified Consumer Services|Consumer Services-G|Industries
+Media|Media-G|Industries
+Distributors|Retailing-G|Industries
+Internet & Catalog Retail|Retailing-G|Industries
+Multiline Retail|Retailing-G|Industries
+Specialty Retail|Retailing-G|Industries
+Food & Staples Retailing|Food & Staples Retailing-G|Industries
+Beverages|Food, Beverage & Tobacco-G|Industries
+Food Products|Food, Beverage & Tobacco-G|Industries
+Tobacco|Food, Beverage & Tobacco-G|Industries
+Household Products|Household & Personal Products-G|Industries
+Personal Products|Household & Personal Products-G|Industries
+Health Care Equipment & Supplies|Health Care Equipment & Services-G|Industries
+Health Care Providers & Services|Health Care Equipment & Services-G|Industries
+Health Care Technology|Health Care Equipment & Services-G|Industries
+Biotechnology|Pharmaceuticals, Biotechnology & Life Sciences-G|Industries
+Pharmaceuticals|Pharmaceuticals, Biotechnology & Life Sciences-G|Industries
+Life Sciences Tools & Services|Pharmaceuticals, Biotechnology & Life Sciences-G|Industries
+Commercial Banks|Banks-G|Industries
+Thrifts & Mortgage Finance|Banks-G|Industries
+Diversified Financial Services|Diversified Financials-G|Industries
+Consumer Finance|Diversified Financials-G|Industries
+Capital Markets|Diversified Financials-G|Industries
+Insurance|Insurance-G|Industries
+Real Estate Investment Trusts (REITs)|Real Estate-G|Industries
+Real Estate Management & Development|Real Estate-G|Industries
+Internet Software & Services|Software & Services-G|Industries
+IT Services|Software & Services-G|Industries
+Software|Software & Services-G|Industries
+Communications Equipment|Technology Hardware & Equipment-G|Industries
+Computers & Peripherals|Technology Hardware & Equipment-G|Industries
+Electronic Equipment, Instruments & Components|Technology Hardware & Equipment-G|Industries
+Office Electronics|Technology Hardware & Equipment-G|Industries
+Semiconductors & Semiconductor Equipment|Semiconductors & Semiconductor Equipment-G|Industries
+Diversified Telecommunication Services|Telecommunication Services-G|Industries
+Wireless Telecommunication Services|Telecommunication Services-G|Industries
+Electric Utilities|Utilities-G|Industries
+Gas Utilities|Utilities-G|Industries
+Multi-Utilities|Utilities-G|Industries
+Water Utilities|Utilities-G|Industries
+Independent Power Producers & Energy Traders|Utilities-G|Industries
