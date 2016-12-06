@@ -29,9 +29,6 @@ return_df.index = dates
 return_df.columns.name = ''
 return_df.index.name = 'Date'
 
-for exp_file in all_files_exp:
-    df = pd.read_table(exp_file, skiprows=range(2), sep = '|', verbose=False)
-
 
 #  Data Visualization
 '''
@@ -47,5 +44,3 @@ fig.autofmt_xdate()
 
 import matplotlib.dates as mdates
 ax.fmt_xdata = mdates.DateFormatter('%Y-%m-%d')
-
-#Exposures distribution
