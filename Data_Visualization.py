@@ -48,3 +48,4 @@ fig.autofmt_xdate()
 import matplotlib.dates as mdates
 ax.fmt_xdata = mdates.DateFormatter('%Y-%m-%d')
 
+#Exposures distribution
